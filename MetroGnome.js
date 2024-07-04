@@ -3,7 +3,7 @@
 var p; // shortcut to reference prototypes
 var lib={};var ss={};var img={};
 lib.ssMetadata = [
-		{name:"raihanazahra_finalproject_atlas_1", frames: [[0,383,440,676],[884,383,432,665],[1318,383,441,648],[442,383,440,676],[1619,0,316,375],[1761,377,278,288],[1318,1033,322,820],[0,1061,454,577],[1197,1672,115,151],[533,1769,125,130],[456,1264,457,194],[456,1061,455,201],[456,1460,457,194],[1642,1164,327,112],[1642,1033,327,129],[913,1050,328,119],[0,1757,161,107],[0,1640,162,115],[533,1656,162,111],[1642,1682,124,140],[164,1640,121,150],[697,1656,123,146],[1768,1682,124,140],[287,1640,121,150],[822,1672,123,146],[1894,1682,124,140],[410,1656,121,150],[947,1672,123,146],[1072,1672,123,146],[1642,1502,294,101],[1642,1397,293,103],[915,1412,294,102],[915,1516,294,76],[915,1594,293,76],[1642,1605,294,75],[760,1820,146,75],[1761,933,145,80],[363,1808,146,76],[1937,1278,98,137],[1937,0,97,145],[1211,1318,98,137],[1938,1417,98,137],[1937,147,97,145],[1211,1457,98,137],[163,1792,98,137],[1206,1171,97,145],[263,1792,98,137],[660,1804,98,137],[1642,1278,289,117],[915,1171,289,121],[915,1294,289,116],[1761,848,247,83],[1761,667,247,91],[1761,760,247,86],[0,0,1617,381]]}
+		{name:"MetroGnome", frames: [[0,383,440,676],[884,383,432,665],[1318,383,441,648],[442,383,440,676],[1619,0,316,375],[1761,377,278,288],[1318,1033,322,820],[0,1061,454,577],[1197,1672,115,151],[533,1769,125,130],[456,1264,457,194],[456,1061,455,201],[456,1460,457,194],[1642,1164,327,112],[1642,1033,327,129],[913,1050,328,119],[0,1757,161,107],[0,1640,162,115],[533,1656,162,111],[1642,1682,124,140],[164,1640,121,150],[697,1656,123,146],[1768,1682,124,140],[287,1640,121,150],[822,1672,123,146],[1894,1682,124,140],[410,1656,121,150],[947,1672,123,146],[1072,1672,123,146],[1642,1502,294,101],[1642,1397,293,103],[915,1412,294,102],[915,1516,294,76],[915,1594,293,76],[1642,1605,294,75],[760,1820,146,75],[1761,933,145,80],[363,1808,146,76],[1937,1278,98,137],[1937,0,97,145],[1211,1318,98,137],[1938,1417,98,137],[1937,147,97,145],[1211,1457,98,137],[163,1792,98,137],[1206,1171,97,145],[263,1792,98,137],[660,1804,98,137],[1642,1278,289,117],[915,1171,289,121],[915,1294,289,116],[1761,848,247,83],[1761,667,247,91],[1761,760,247,86],[0,0,1617,381]]}
 ];
 
 
@@ -34,35 +34,35 @@ p.nominalBounds = new cjs.Rectangle(0,0,1832,2857);
 
 
 (lib.CachedBmp_78 = function() {
-	this.initialize(ss["raihanazahra_finalproject_atlas_1"]);
+	this.initialize(ss["MetroGnome"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_77 = function() {
-	this.initialize(ss["raihanazahra_finalproject_atlas_1"]);
+	this.initialize(ss["MetroGnome"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_76 = function() {
-	this.initialize(ss["raihanazahra_finalproject_atlas_1"]);
+	this.initialize(ss["MetroGnome"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_75 = function() {
-	this.initialize(ss["raihanazahra_finalproject_atlas_1"]);
+	this.initialize(ss["MetroGnome"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_74 = function() {
-	this.initialize(ss["raihanazahra_finalproject_atlas_1"]);
+	this.initialize(ss["MetroGnome"]);
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
@@ -111,21 +111,21 @@ p.nominalBounds = new cjs.Rectangle(0,0,1641,3045);
 
 
 (lib.CachedBmp_66 = function() {
-	this.initialize(ss["raihanazahra_finalproject_atlas_1"]);
+	this.initialize(ss["MetroGnome"]);
 	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_65 = function() {
-	this.initialize(ss["raihanazahra_finalproject_atlas_1"]);
+	this.initialize(ss["MetroGnome"]);
 	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_64 = function() {
-	this.initialize(ss["raihanazahra_finalproject_atlas_1"]);
+	this.initialize(ss["MetroGnome"]);
 	this.gotoAndStop(7);
 }).prototype = p = new cjs.Sprite();
 
@@ -216,322 +216,322 @@ p.nominalBounds = new cjs.Rectangle(0,0,3733,885);
 
 
 (lib.CachedBmp_49 = function() {
-	this.initialize(ss["raihanazahra_finalproject_atlas_1"]);
+	this.initialize(ss["MetroGnome"]);
 	this.gotoAndStop(8);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_48 = function() {
-	this.initialize(ss["raihanazahra_finalproject_atlas_1"]);
+	this.initialize(ss["MetroGnome"]);
 	this.gotoAndStop(9);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_47 = function() {
-	this.initialize(ss["raihanazahra_finalproject_atlas_1"]);
+	this.initialize(ss["MetroGnome"]);
 	this.gotoAndStop(10);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_46 = function() {
-	this.initialize(ss["raihanazahra_finalproject_atlas_1"]);
+	this.initialize(ss["MetroGnome"]);
 	this.gotoAndStop(11);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_45 = function() {
-	this.initialize(ss["raihanazahra_finalproject_atlas_1"]);
+	this.initialize(ss["MetroGnome"]);
 	this.gotoAndStop(12);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_44 = function() {
-	this.initialize(ss["raihanazahra_finalproject_atlas_1"]);
+	this.initialize(ss["MetroGnome"]);
 	this.gotoAndStop(13);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_43 = function() {
-	this.initialize(ss["raihanazahra_finalproject_atlas_1"]);
+	this.initialize(ss["MetroGnome"]);
 	this.gotoAndStop(14);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_42 = function() {
-	this.initialize(ss["raihanazahra_finalproject_atlas_1"]);
+	this.initialize(ss["MetroGnome"]);
 	this.gotoAndStop(15);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_41 = function() {
-	this.initialize(ss["raihanazahra_finalproject_atlas_1"]);
+	this.initialize(ss["MetroGnome"]);
 	this.gotoAndStop(16);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_40 = function() {
-	this.initialize(ss["raihanazahra_finalproject_atlas_1"]);
+	this.initialize(ss["MetroGnome"]);
 	this.gotoAndStop(17);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_39 = function() {
-	this.initialize(ss["raihanazahra_finalproject_atlas_1"]);
+	this.initialize(ss["MetroGnome"]);
 	this.gotoAndStop(18);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_38 = function() {
-	this.initialize(ss["raihanazahra_finalproject_atlas_1"]);
+	this.initialize(ss["MetroGnome"]);
 	this.gotoAndStop(19);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_37 = function() {
-	this.initialize(ss["raihanazahra_finalproject_atlas_1"]);
+	this.initialize(ss["MetroGnome"]);
 	this.gotoAndStop(20);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_36 = function() {
-	this.initialize(ss["raihanazahra_finalproject_atlas_1"]);
+	this.initialize(ss["MetroGnome"]);
 	this.gotoAndStop(21);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_35 = function() {
-	this.initialize(ss["raihanazahra_finalproject_atlas_1"]);
+	this.initialize(ss["MetroGnome"]);
 	this.gotoAndStop(22);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_34 = function() {
-	this.initialize(ss["raihanazahra_finalproject_atlas_1"]);
+	this.initialize(ss["MetroGnome"]);
 	this.gotoAndStop(23);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_33 = function() {
-	this.initialize(ss["raihanazahra_finalproject_atlas_1"]);
+	this.initialize(ss["MetroGnome"]);
 	this.gotoAndStop(24);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_32 = function() {
-	this.initialize(ss["raihanazahra_finalproject_atlas_1"]);
+	this.initialize(ss["MetroGnome"]);
 	this.gotoAndStop(25);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_31 = function() {
-	this.initialize(ss["raihanazahra_finalproject_atlas_1"]);
+	this.initialize(ss["MetroGnome"]);
 	this.gotoAndStop(26);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_30 = function() {
-	this.initialize(ss["raihanazahra_finalproject_atlas_1"]);
+	this.initialize(ss["MetroGnome"]);
 	this.gotoAndStop(27);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_29 = function() {
-	this.initialize(ss["raihanazahra_finalproject_atlas_1"]);
+	this.initialize(ss["MetroGnome"]);
 	this.gotoAndStop(28);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_28 = function() {
-	this.initialize(ss["raihanazahra_finalproject_atlas_1"]);
+	this.initialize(ss["MetroGnome"]);
 	this.gotoAndStop(29);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_27 = function() {
-	this.initialize(ss["raihanazahra_finalproject_atlas_1"]);
+	this.initialize(ss["MetroGnome"]);
 	this.gotoAndStop(30);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_26 = function() {
-	this.initialize(ss["raihanazahra_finalproject_atlas_1"]);
+	this.initialize(ss["MetroGnome"]);
 	this.gotoAndStop(31);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_25 = function() {
-	this.initialize(ss["raihanazahra_finalproject_atlas_1"]);
+	this.initialize(ss["MetroGnome"]);
 	this.gotoAndStop(32);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_24 = function() {
-	this.initialize(ss["raihanazahra_finalproject_atlas_1"]);
+	this.initialize(ss["MetroGnome"]);
 	this.gotoAndStop(33);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_23 = function() {
-	this.initialize(ss["raihanazahra_finalproject_atlas_1"]);
+	this.initialize(ss["MetroGnome"]);
 	this.gotoAndStop(34);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_22 = function() {
-	this.initialize(ss["raihanazahra_finalproject_atlas_1"]);
+	this.initialize(ss["MetroGnome"]);
 	this.gotoAndStop(35);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_21 = function() {
-	this.initialize(ss["raihanazahra_finalproject_atlas_1"]);
+	this.initialize(ss["MetroGnome"]);
 	this.gotoAndStop(36);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_20 = function() {
-	this.initialize(ss["raihanazahra_finalproject_atlas_1"]);
+	this.initialize(ss["MetroGnome"]);
 	this.gotoAndStop(37);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_19 = function() {
-	this.initialize(ss["raihanazahra_finalproject_atlas_1"]);
+	this.initialize(ss["MetroGnome"]);
 	this.gotoAndStop(38);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_18 = function() {
-	this.initialize(ss["raihanazahra_finalproject_atlas_1"]);
+	this.initialize(ss["MetroGnome"]);
 	this.gotoAndStop(39);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_17 = function() {
-	this.initialize(ss["raihanazahra_finalproject_atlas_1"]);
+	this.initialize(ss["MetroGnome"]);
 	this.gotoAndStop(40);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_16 = function() {
-	this.initialize(ss["raihanazahra_finalproject_atlas_1"]);
+	this.initialize(ss["MetroGnome"]);
 	this.gotoAndStop(41);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_15 = function() {
-	this.initialize(ss["raihanazahra_finalproject_atlas_1"]);
+	this.initialize(ss["MetroGnome"]);
 	this.gotoAndStop(42);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_14 = function() {
-	this.initialize(ss["raihanazahra_finalproject_atlas_1"]);
+	this.initialize(ss["MetroGnome"]);
 	this.gotoAndStop(43);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_13 = function() {
-	this.initialize(ss["raihanazahra_finalproject_atlas_1"]);
+	this.initialize(ss["MetroGnome"]);
 	this.gotoAndStop(44);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_12 = function() {
-	this.initialize(ss["raihanazahra_finalproject_atlas_1"]);
+	this.initialize(ss["MetroGnome"]);
 	this.gotoAndStop(45);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_11 = function() {
-	this.initialize(ss["raihanazahra_finalproject_atlas_1"]);
+	this.initialize(ss["MetroGnome"]);
 	this.gotoAndStop(46);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_10 = function() {
-	this.initialize(ss["raihanazahra_finalproject_atlas_1"]);
+	this.initialize(ss["MetroGnome"]);
 	this.gotoAndStop(47);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_9 = function() {
-	this.initialize(ss["raihanazahra_finalproject_atlas_1"]);
+	this.initialize(ss["MetroGnome"]);
 	this.gotoAndStop(48);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_8 = function() {
-	this.initialize(ss["raihanazahra_finalproject_atlas_1"]);
+	this.initialize(ss["MetroGnome"]);
 	this.gotoAndStop(49);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_7 = function() {
-	this.initialize(ss["raihanazahra_finalproject_atlas_1"]);
+	this.initialize(ss["MetroGnome"]);
 	this.gotoAndStop(50);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_6 = function() {
-	this.initialize(ss["raihanazahra_finalproject_atlas_1"]);
+	this.initialize(ss["MetroGnome"]);
 	this.gotoAndStop(51);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_5 = function() {
-	this.initialize(ss["raihanazahra_finalproject_atlas_1"]);
+	this.initialize(ss["MetroGnome"]);
 	this.gotoAndStop(52);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_4 = function() {
-	this.initialize(ss["raihanazahra_finalproject_atlas_1"]);
+	this.initialize(ss["MetroGnome"]);
 	this.gotoAndStop(53);
 }).prototype = p = new cjs.Sprite();
 
@@ -544,7 +544,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,4314,2715);
 
 
 (lib.CachedBmp_2 = function() {
-	this.initialize(ss["raihanazahra_finalproject_atlas_1"]);
+	this.initialize(ss["MetroGnome"]);
 	this.gotoAndStop(54);
 }).prototype = p = new cjs.Sprite();
 
@@ -3746,7 +3746,7 @@ lib.properties = {
 		{src:"images/CachedBmp_50.png", id:"CachedBmp_50"},
 		{src:"images/CachedBmp_3.png", id:"CachedBmp_3"},
 		{src:"images/CachedBmp_1.png", id:"CachedBmp_1"},
-		{src:"images/raihanazahra_finalproject_atlas_1.png", id:"raihanazahra_finalproject_atlas_1"}
+		{src:"images/MetroGnome.png", id:"MetroGnome"}
 	],
 	preloads: []
 };
