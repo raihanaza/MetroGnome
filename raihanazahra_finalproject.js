@@ -2774,7 +2774,7 @@ p.nominalBounds = new cjs.Rectangle(-2.5,-7.4,373,165.1);
 
 
 // stage content:
-(lib.MetroGnome_Game = function(mode,startPosition,loop,reversed) {
+(lib.raihanazahra_finalproject = function(mode,startPosition,loop,reversed) {
 if (loop == null) { loop = true; }
 if (reversed == null) { reversed = false; }
 	var props = new Object();
